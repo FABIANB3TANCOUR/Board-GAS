@@ -51,6 +51,3 @@ Guardar: Haz clic en el icono del disquete (Guardar) y asígnale un nombre al pr
 Uso en la hoja: Regresa a tu hoja de cálculo. Ahora puedes usar las funciones como si fueran fórmulas nativas.
 
 Ejemplo: =PAGO_TOTAL_NOMBRE(B2:B; F2:F; "Gretchen")
-Uso en la hoja: Regresa a tu hoja de cálculo. Ahora puedes usar las funciones como si fueran fórmulas nativas.
-
-Ejemplo: =PAGO_TOTAL_NOMBRE(B2:B; F2:F; "Gretchen")
